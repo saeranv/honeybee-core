@@ -1,0 +1,17 @@
+honeybee.cli package
+====================
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee.cli.validate
+
+Module contents
+---------------
+
+.. automodule:: honeybee.cli
+    :members:
+    :undoc-members:
+    :show-inheritance:

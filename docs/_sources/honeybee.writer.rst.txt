@@ -1,0 +1,22 @@
+honeybee.writer package
+=======================
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee.writer.aperture
+   honeybee.writer.door
+   honeybee.writer.face
+   honeybee.writer.model
+   honeybee.writer.room
+   honeybee.writer.shade
+
+Module contents
+---------------
+
+.. automodule:: honeybee.writer
+    :members:
+    :undoc-members:
+    :show-inheritance:
